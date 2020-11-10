@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<admins>
+	<admin>
+		<fullname>Admin</fullname>
+		<username>admin</username>
+		<password>mylifemyrules</password>
+		<gender>Male</gender>
+        <contact>01761935106</contact>
+        <city>Dhaka</city>
+	</admin>
+<admin><fullName>ZeeshanAhmedDipro</fullName><userName>zeeshandipro</userName><password>96484124</password><gender>on</gender><mail>zeeshandipro@gmail.com</mail><contact>01761935106</contact><city>Moghbazar</city></admin></admins>
